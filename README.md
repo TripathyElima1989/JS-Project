@@ -40,3 +40,6 @@ This project fetches a list of Pokémon from the [PokéAPI](https://pokeapi.co) 
 - **Table Creation:** Upon receiving the data, the script constructs a table where each row contains the name of a Pokémon as a clickable link (directing to the Pokémon's detailed page) and a "Hide" button to remove the row.
 
 - **Hide Functionality:** When a "Hide" button is clicked, the corresponding row is hidden using jQuery's `.hide()` method.
+
+URL to access - https://tripathyelima1989.github.io/JS-Project/index.html 
+  
