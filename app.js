@@ -45,12 +45,3 @@ $(document).ready(function() {
     });
 
 }); // End of the document ready function
-
-// Example of conditional code; this part does not affect the AJAX code
-if ('this_is' == /an_example/) {
-    // A function call to 'of_beautifier()' if the condition is true (it’s just a placeholder)
-    of_beautifier();
-} else {
-    // A ternary operation that evaluates a condition and returns different values based on that condition
-    var a = b ? (c % d) : e[f];
-}
